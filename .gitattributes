@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Enforce Windows-style CRLF line endings for PowerShell scripts (.ps1)
+# This prevents issues when running the script natively on Windows systems.
+*.ps1 text eol=crlf
+
+# Treat markdown files as text
+*.md text

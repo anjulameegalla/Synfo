@@ -1,0 +1,23 @@
+# 1. Powershell Specific Files
+# Ignore common output files from scripts (e.g., if you log output to a file)
+*.log
+*.csv
+*.json
+*.xml
+
+# 2. Windows and System Temporary Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.tmp
+~*.*
+
+# 3. Development/IDE Files (VS Code, common editors)
+.vscode/
+*.sublime-workspace
+.idea/
+
+# 4. Binary/Compiled files (if you start compiling anything)
+*.exe
+*.dll
