@@ -25,3 +25,10 @@ cd Synfo
 ./Synfo.ps1
 ```
 
+<br>
+
+### Contributing
+
+Bugs and suggestions are welcome on [Issues](https://github.com/anjulameegalla/Synfo/issues)!  
+
+[![Contact](https://img.shields.io/badge/Contact-2ea44f?style=for-the-badge)](https://anjula.live/)
